@@ -1,4 +1,5 @@
 import { Col, Row } from "react-bootstrap"
+import React from "react"
 import { StoreItem } from "../components/StoreItem"
 import storeItems from "../data/items.json"
 

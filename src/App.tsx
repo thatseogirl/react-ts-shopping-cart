@@ -1,4 +1,5 @@
 import { Routes, Route } from "react-router-dom"
+import React from "react"
 import { Container } from "react-bootstrap"
 import { Store } from "./pages/Store"
 import { Navbar } from "./components/Navbar"
